@@ -2,7 +2,7 @@
 
 The "Note Taker" program allows users to jot down and store their notes. It operates with an Express.js backend and manages note details through a JSON file. Moreover, it is hosted on Heroku.
 
-[View deployed HEROKU app here!](https://peaceful-wildwood-17368.herokuapp.com/)
+[View deployed HEROKU app here!]()
 
 
 ## Criteria
