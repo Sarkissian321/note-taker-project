@@ -2,7 +2,7 @@
 
 The "Note Taker" program allows users to jot down and store their notes. It operates with an Express.js backend and manages note details through a JSON file. Moreover, it is hosted on Heroku.
 
-[Link to eployed HEROKU app]()
+[Link to eployed HEROKU app](https://notetaker-sarkissian321-2f896a3db11c.herokuapp.com/notes)
 
 
 ## Criteria
@@ -28,7 +28,8 @@ To instal, clone the GitHub repository.
 Then, run <npm i> cammand in your terminal to install all the needed packages.
 
 
-## Video Walkthrough
+## Screenshots
+![Screenshot 2023-11-01 230048](https://github.com/Sarkissian321/note-taker-project/assets/142841411/742ed6d2-854a-47bc-9418-5bac3d647bcf)
 
 
 
@@ -37,4 +38,4 @@ email address: sarkissian.mell321@yahoo.com
 GitHub account: Sarkissian321
 
 ## Link to Github Repository
-
+https://github.com/Sarkissian321/note-taker-project
